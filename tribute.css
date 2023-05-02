@@ -1,0 +1,44 @@
+body {
+    background-color: #ebf871;
+}
+.imagesd {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding-left: 570px;
+}
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+img {
+    display: inline-block;
+    width: 100%;
+}
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+    text-align: center;
+}
+div#tribute-data {
+    background-color: rgba(189, 238, 74, 0.788);
+    box-shadow: 20px 20px 20px #e42d82a1;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+h1.hero {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+#tribute-dhoni {
+    text-decoration: none;
+    color: black;
+}
+
+		
